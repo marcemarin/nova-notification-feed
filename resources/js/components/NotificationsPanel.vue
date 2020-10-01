@@ -86,7 +86,7 @@ export default {
     top: 0;
     width: 340px;
     height: 100%;
-    background-color: transparent;
+    background-color:white;
     padding-bottom: 70px;
 }
 
@@ -97,6 +97,6 @@ export default {
 }
 
 #notifications-panel-close:hover {
-    background-color: #252d37;
+    background-color: #4E981F;
 }
 </style>
