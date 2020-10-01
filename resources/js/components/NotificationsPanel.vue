@@ -86,7 +86,7 @@ export default {
     top: 0;
     width: 340px;
     height: 100%;
-    background-color:white;
+    background-color: white;
     padding-bottom: 70px;
 }
 
@@ -94,9 +94,10 @@ export default {
     height: 60px;
     line-height: 60px;
     cursor: pointer;
+    background-color: #18981d;
 }
 
 #notifications-panel-close:hover {
-    background-color: #4E981F;
+    background-color: #07600e;
 }
 </style>
