@@ -118,7 +118,6 @@ export default {
 </script>
 <style scoped>
 .notification {
-    border-bottom: 1px solid #dfe2e6;
-    border-top: 1px solid #dfe2e6;
+    border-bottom: 1px solid #d6e1ef78;
 }
 </style>
