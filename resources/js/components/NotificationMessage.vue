@@ -118,6 +118,7 @@ export default {
 </script>
 <style scoped>
 .notification {
-    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    border-bottom: 1px solid #dfe2e6;
+    border-top: 1px solid #dfe2e6;
 }
 </style>
