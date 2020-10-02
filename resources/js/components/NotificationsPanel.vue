@@ -86,7 +86,7 @@ export default {
     top: 0;
     width: 340px;
     height: 100%;
-    background-color: #f0fbf1;
+    background-color: white;
 
     padding-bottom: 70px;
 }
